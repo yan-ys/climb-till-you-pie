@@ -1,0 +1,12 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"Readme",
+  "name":"Readme",
+  "openedOnFirstLoad":true,
+  "parent":{
+    "name":"Bounce",
+    "path":"Bounce.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
